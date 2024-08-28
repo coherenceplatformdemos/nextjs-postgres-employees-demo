@@ -34,8 +34,8 @@ You can use it as a starting point for any full stack Next.js application. Read 
 Fork the repository to your GitHub account. To test locally, clone the forked repository to your machine. You will need to have Docker installed.
 
 ```shell
-git clone https://github.com/<your_github_username>/nextjs-postgress-employee-app.git
-cd nextjs-postgress-employee-app
+git clone https://github.com/<your_github_username>/nextjs-postgres-employees-demo.git
+cd nextjs-postgres-employee-demo
 docker compose up 
 ```
 
